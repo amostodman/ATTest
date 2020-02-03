@@ -4,5 +4,5 @@ branches:
 - master
 projects:
   ATTest:
-    path: ""
+    path: "AmosPlugin/"
 ...
