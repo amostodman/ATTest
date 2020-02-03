@@ -1,6 +1,6 @@
 <?php
 
-namespace Amos\AmosPlugin;
+namespace AmosPlugin;
 
 use pocketmine\Server;
 use pocketmine\Player;
@@ -44,3 +44,5 @@ class Main extends PluginBase implements Listener {
 		$player->sendMessage(TextFormat:: AQUA . "Hello " . $player->getName());
 	}
 }
+
+?>
