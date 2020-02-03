@@ -44,5 +44,3 @@ class Main extends PluginBase implements Listener {
 		$player->sendMessage(TextFormat:: AQUA . "Hello " . $player->getName());
 	}
 }
-
-?>
