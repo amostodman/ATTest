@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace ExamplePlugin;
+namespace AmosPlugin;
 
 use pocketmine\scheduler\Task;
 use pocketmine\Server;
